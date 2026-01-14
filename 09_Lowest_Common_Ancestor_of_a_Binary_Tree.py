@@ -20,5 +20,6 @@ class Solution:
         if left and right:
             return root
         
+        
         # Otherwise return the non-null side
         return left if left else right
