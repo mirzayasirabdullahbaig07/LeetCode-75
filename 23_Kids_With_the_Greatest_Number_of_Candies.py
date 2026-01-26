@@ -11,4 +11,5 @@ class Solution:
             else:
                 result.append(False)
 
+
         return result
