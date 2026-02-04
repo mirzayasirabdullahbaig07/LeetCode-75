@@ -9,8 +9,8 @@ The goal of this challenge is to build strong fundamentals in **Data Structures 
 
 - 👤 **Name:** Mirza Yasir Abdullah Baig  
 - 🎯 **Goal:** Complete all 75 problems  
-- ✅ **Solved:** 21 / 75  
-- 🏆 **Weekly Rank:** 5650  
+- ✅ **Solved:** 29 / 75  
+- 🏆 **Weekly Rank:** 4949  
 
 ---
 
