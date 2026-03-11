@@ -1,4 +1,4 @@
-# 🚀 LeetCode 75 – Interview Preparation
+# 🚀 LeetCode 75 – Interview Preparation For MAANG
 
 This repository contains my solutions to the **LeetCode 75** curated problem list.  
 The goal of this challenge is to build strong fundamentals in **Data Structures & Algorithms** commonly asked in technical interviews.
