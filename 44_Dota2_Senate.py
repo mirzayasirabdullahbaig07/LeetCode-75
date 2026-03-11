@@ -14,7 +14,6 @@ class Solution:
         while D and R:
             dTurn = D.popleft()
             rTurn = R.popleft()
-
             if rTurn < dTurn:
                 R.append(rTurn + len(senate))
             else:
