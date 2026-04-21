@@ -19,5 +19,4 @@ class Solution:
 
             if len(heap) == k:
                 max_score = max(max_score, curr_sum * n2)
-
         return max_score
